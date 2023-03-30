@@ -6,3 +6,5 @@ Some description!!
 
 Always practise on vscode.
 
+1. Open index.html in your browser
+
